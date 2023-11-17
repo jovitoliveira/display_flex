@@ -1,0 +1,35 @@
+section {
+    border: 2px solid red;
+}
+
+.cacetinho {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.cacetinho img {
+    width: 20px;
+}
+
+.cacetinho p {
+    width: 30rem;
+    text-align: center;
+}
+
+.coxinha {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.coxinha img {
+    width: 20rem;
+}
+
+.coxinha p {
+    width: 30px;
+    text-align: center;
+}
+
